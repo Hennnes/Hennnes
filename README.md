@@ -1,16 +1,28 @@
-## Hi there 👋
+Artem Hennnes
 
-<!--
-**Hennnes/Hennnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer / automation engineer focused on backend services, API integrations and production automation.
 
-Here are some ideas to get you started:
+Stack
+Python · FastAPI · SQLAlchemy · PostgreSQL · pytest · Docker · REST API · JavaScript · Node.js · Playwright · GraphQL · Git · Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Selected projects
+Kvitto Payments API
+FastAPI payment service with PostgreSQL/SQLAlchemy, Alembic migrations, idempotent payment creation, HMAC-SHA256 webhooks, Docker and automated tests.
+
+Steam Rental Automation
+Sanitized showcase of a production Python automation system. The private production version managed ~176 Steam accounts and processed ~10,000 rentals in three months, with concurrency protection against double booking.
+
+Multi-Market Arbitrage Dashboard
+Sanitized showcase of a Node.js/Playwright system integrating several Telegram Gift marketplaces through REST, GraphQL and browser automation. The private production system handled ~50,000 TON of turnover and 18,230 resold items.
+
+Solana Early Radar
+On-chain research project using Helius API and temporal validation. Evaluated 500 Pump.fun mints and 2,500 frozen cutoff snapshots; rejected the initial cohort hypothesis after it failed to show stable incremental predictive value.
+
+What I work with
+- Backend APIs and external-service integrations
+- Process automation and internal tools
+- API/web testing and debugging
+- Concurrent workflows and state management
+- Data collection, validation and technical research
+
+Currently open to junior Python / backend / automation engineering roles.
